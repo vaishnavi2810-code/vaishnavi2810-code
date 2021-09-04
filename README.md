@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vaishnavi Jariwala
+👋 Hi, I’m Vaishnavi Jariwala
 - 👨‍💻 I'm currently working on : web development
 - 👀 I’m interested in : web based technologies
 - 🌱 I’m currently learning : backend 
