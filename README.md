@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning : backend frameworks<br>
 - 📫 How to reach me : <a href="mailto:jariwalavaishnavi52@gmail.com">jariwalavaishnavi52@gmail.com</a><br><br>
 
-<h1>🔗 Tools and Technologies:</h1>
+<h1>Tools and Technologies:</h1>
 
   
 
