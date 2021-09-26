@@ -27,7 +27,7 @@
 
 <a href="https://github.com/vaishnavi2810-code/github-readme-stats"><img alt="Vaishnavi Jariwala's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vaishnavi2810-code&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-<a href="https://github.com/vaishnavi2810-code/github-readme-stats"><img alt="Vaishnavi Jariwala's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi2810-code&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<!--<a href="https://github.com/vaishnavi2810-code/github-readme-stats"><img alt="Vaishnavi Jariwala's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi2810-code&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>-->
 
 
 <!---
