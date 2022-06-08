@@ -3,7 +3,6 @@
   
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" height="35px">, I am Vaishnavi Jariwala</h1>
-- GSSoC 2022 select<br>
 - 👨‍💻 I'm currently working on : Web development<br>
 - 👀 I’m looking to colaborate on projects based on Web development or Data Analytics using Python <br>
 - 🌱 I’m currently learning : Machine Learning and MEAN Stack Development<br>
