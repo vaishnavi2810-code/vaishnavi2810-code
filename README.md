@@ -3,9 +3,9 @@
   
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" height="35px">, I am Vaishnavi Jariwala</h1>
-- 👨‍💻 I'm currently working on : Web development<br>
-- 👀 I’m looking to colaborate on projects based on Web development or Data Analytics using Python <br>
-- 🌱 I’m currently learning : Machine Learning and MEAN Stack Development<br>
+- 👨‍💻 I'm currently working on : MEARN development<br>
+- 👀 I’m looking to colaborate on projects based on Web development or Machine Learning using Python <br>
+- 🌱 I’m currently learning : Machine Learning<br>
 - 📫 How to reach me : <a href="mailto:jariwalavaishnavi52@gmail.com">jariwalavaishnavi52@gmail.com</a><br><br>
 
 <h1>🎯Tools and Technologies:</h1>
@@ -20,7 +20,9 @@
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
 <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-<img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
+<img src="https://img.icons8.com/nolan/64/react-native.png" width="48px" height="48px"/>
+  <img src="https://img.icons8.com/fluency/48/undefined/node-js.png"/>
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/undefined/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png"/>
   <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/wordpress.png"/>
   <img src="https://img.icons8.com/color/48/000000/php.png"/>
