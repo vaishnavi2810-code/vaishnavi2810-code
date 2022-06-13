@@ -3,7 +3,7 @@
   
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" height="35px">, I am Vaishnavi Jariwala</h1>
-- 👨‍💻 I'm currently working on : MEARN development<br>
+- 👨‍💻 I'm currently working on : MERN development<br>
 - 👀 I’m looking to colaborate on projects based on Web development or Machine Learning using Python <br>
 - 🌱 I’m currently learning : Machine Learning<br>
 - 📫 How to reach me : <a href="mailto:jariwalavaishnavi52@gmail.com">jariwalavaishnavi52@gmail.com</a><br><br>
