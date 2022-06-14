@@ -8,10 +8,23 @@
 - 🌱 I’m currently learning : Machine Learning<br>
 - 📫 How to reach me : <a href="mailto:jariwalavaishnavi52@gmail.com">jariwalavaishnavi52@gmail.com</a><br><br>
 
+# :woman_student: Education
+<p><img src="https://user-images.githubusercontent.com/65387125/173591997-8b1ea5c6-18fc-4077-9c7a-9c992ec13653.jpg" width="169px" height="169px"></p>
+<h3>NMIMS University</h3>
+<p> <b>B.Tech Computer Engineering</b> (July' 2019 - July' 2023) <br/>
+  <b>CGPA</b>: 3.71/4
+</p>
+
+# :link: Profile Links
+<ul>
+<li><b><a href="https://www.linkedin.com/in/vaishnavi-jariwala-0883b51a3/">LinkedIn</a></b>
+<li><b><a href="https://www.codechef.com/users/vaishnavi_2801">CodeChef</a></b>
+<li><b><a href="https://leetcode.com/VaishnaviJariwala/">LeetCode</b>
+</ul>
+ 
+
+
 <h1>🎯Tools and Technologies:</h1>
-
-  
-
 <p>
 <a href="https://www.java.com/en/" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/></a>
  <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
@@ -40,3 +53,6 @@
 vaishnavi2810-code/vaishnavi2810-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
