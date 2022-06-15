@@ -21,7 +21,7 @@
 <li><b><a href="https://www.linkedin.com/in/vaishnavi-jariwala-0883b51a3/">LinkedIn</a></b>
 <li><b><a href="https://www.codechef.com/users/vaishnavi_2801">CodeChef</a></b>
 <li><b><a href="https://leetcode.com/VaishnaviJariwala/">LeetCode</b>
-  <li><b><a href="https://auth.geeksforgeeks.org/user/jariwalavaishnavi52/practice/">GeeksforGeeks</b>
+  <li><b><a href="https://auth.geeksforgeeks.org/user/jariwalavaishnavi52/practice/">GeeksforGeeks</a></b>
 </ul>
   
  
