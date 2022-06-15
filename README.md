@@ -6,7 +6,7 @@
 - 👨‍💻 I'm currently working on : MERN development<br>
 - 👀 I’m looking to colaborate on projects based on Web development or Machine Learning using Python <br>
 - 🌱 I’m currently learning : Machine Learning<br>
-- 📫 How to reach me : <a href="mailto:jariwalavaishnavi52@gmail.com">jariwalavaishnavi52@gmail.com</a><br><br>
+- 📫 How to reach me : <a href="mailto:jariwalavaishnavi52@gmail.com">jariwalavaishnavi52@gmail.com</a><br>
 - ⚡ Fun fact : I'm a National Level Pistol shooter
 
 # :woman_student: Education
