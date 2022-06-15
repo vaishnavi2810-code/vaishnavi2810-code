@@ -65,7 +65,7 @@
   <li>:2nd_place_medal: 	<b>Secured 2nd Position</b> in <b>“10M Pistol (NR) Championship Junior Women Team of 55th Gujarat State Shooting Championship ,2019”</b> held at Ahmedabad.
   <li>Participated in <b>“All India Inter University Shooting Championship 2019”</b> held at Dr. Karni Singh Shooting Range, New Delhi.
   <li>Qualified for <b>“8th West Zone Shooting Championship Pistol, 2021”</b> and qualified for <b>64th National Shooting Championship</b>.
-  <li>Participated and qualified in <b>“64th National Shooting Championship Competitions (NSCC) Pistol, 2021”</b> held at Dr. Karni Singh Shooting Range, New Delhi.
+  <li>Participated and qualified in <b>“64th National Shooting Championship Competitions (NSCC) Pistol, 2021”</b> held at Dr. Karni Singh Shooting Range, New Delhi <a href="https://drive.google.com/file/d/1VwylcdIV9kFuv329JFR_kqS0Wx9C5wcY/view?usp=sharing">Certificate</a>.
   </ul>
  
 
