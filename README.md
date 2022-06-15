@@ -52,7 +52,13 @@
      <li><b><ins>Titanic Survival Prediction</ins></b> <a href="https://github.com/vaishnavi2810-code/Titanic_survival_prediction">Code</a><br/>
        A Machine Learning model for predicting the survival of passengers aboard RMS Titanic, a British passenger liner that sank in the North Atlantic Ocean.
  </ul>
-   
+  
+ # :trophy: Achievements
+  <ul>
+    <li><b>Selected</b> as a <b>contributor</b> in <b>GirlScript Summer of Code 2022</b></li>
+    <li><b>Global Rank 402</b> - CodeChef's January Long Challenge, <b>Rating 1661 ( 3 :star:)</b></li>
+    <li><b>Cliff 2</b> - Encipher coding challenge organized by <b>Instabase</b></li>
+  </ul>
  
 
 
