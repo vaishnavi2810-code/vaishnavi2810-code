@@ -37,11 +37,11 @@
   <ul>
     <li><u><b>Solid State Physics Laboratory, DRDO | Internship</b> <i>(May' 2022 - Present)</i>
     <li><u><b>Orpis Technology Ltd. | Freelancing </b><i>(September' 2021 - October' 2021)</i> <a href="https://github.com/vaishnavi2810-code/Bspoints">Source Code</a><br/> 
-      <b>Technologies used:</b> <ins>Java (Swing), NetBeans, JDBC, PhpMyAdmin</ins> <br/>
-    Developed an end-to-end database focused portal which stores the customer’s details, transaction details and, works on role-based access management.
+      <b><ins>Technologies used</ins>:</b> Java (Swing), NetBeans, JDBC, PhpMyAdmin <br/>
+    - Developed an end-to-end database focused portal which stores the customer’s details, transaction details and, works on role-based access management.
       <li><b>Jariwala Trading Co. | Freelancing </b><i>(March' 2021 - June' 2021)</i> <a href="https://github.com/Team-Cadmus/Astron">Source Code</a><br/>
-        <b>Technologies used:</b> <ins>Java (Swing), NetBeans, JDBC, Jasper Reports, PhpMyAdmin</ins> <br/>
-    Developed a software which stores the data of the company’s dealers and stock, generate reports for the company and performs various operations according to the company’s need.
+        <b><ins>Technologies used</ins>:</b> Java (Swing), NetBeans, JDBC, Jasper Reports, PhpMyAdmin <br/>
+    - Developed a software which stores the data of the company’s dealers and stock, generate reports for the company and performs various operations according to the company’s need.
   </ul> 
    
  
