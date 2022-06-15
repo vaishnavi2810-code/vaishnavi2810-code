@@ -7,6 +7,7 @@
 - 👀 I’m looking to colaborate on projects based on Web development or Machine Learning using Python <br>
 - 🌱 I’m currently learning : Machine Learning<br>
 - 📫 How to reach me : <a href="mailto:jariwalavaishnavi52@gmail.com">jariwalavaishnavi52@gmail.com</a><br><br>
+- ⚡ Fun fact : I'm a National Level Pistol shooter
 
 # :woman_student: Education
 <p><img src="https://user-images.githubusercontent.com/65387125/173591997-8b1ea5c6-18fc-4077-9c7a-9c992ec13653.jpg" width="169px" height="169px"></p>
