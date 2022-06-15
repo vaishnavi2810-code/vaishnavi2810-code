@@ -62,9 +62,11 @@
  
 # 🎯 Shooting
 <ul>
-  <li>:2nd_place_medal: 	<b>Secured 2nd Position</b> in <b>“10M Pistol (NR) Championship Junior Women Team of 55th Gujarat State Shooting Championship ,2019”</b> held at Ahmedabad.
-  <li>Participated in <b>“All India Inter University Shooting Championship 2019”</b> held at Dr. Karni Singh Shooting Range, New Delhi.
-  <li>Qualified for <b>“8th West Zone Shooting Championship Pistol, 2021”</b> and qualified for <b>64th National Shooting Championship</b>.
+  <li>:1st_place_medal: <b>Secured 1st Position</b> in <b>“10M Pistol (NR) Championship Junior Women Team of 56th Gujarat State Shooting Championship ,2021”</b> held at Ahmedabad <a href="https://drive.google.com/file/d/10sjk6gU8bWXcsBJ5Qz7hJ0-W5WudJpyb/view?usp=sharing">(Certificate)</a>.
+  <li>:2nd_place_medal: 	<b>Secured 2nd Position</b> in <b>“10M Pistol (NR) Championship Junior Women Team of 55th Gujarat State Shooting Championship ,2019”</b> held at Ahmedabad <a href="https://drive.google.com/file/d/1q2EeTq1541G0F1chci22Vyq2dj7CtxMW/view?usp=sharing">(Certificate)</a>.
+  <li>:2nd_place_medal: 	<b>Secured 2nd Position</b> in <b>“10M Pistol (NR) Championship Junior Women Individual in 1st Open Saurashtra Shooting Championship, 2021”</b> held at Rajkot <a href="https://drive.google.com/file/d/1wbsrFmAUhW9e5ZGRFcryXTBRXGegPfw6/view?usp=sharing">(Certificate)</a>.
+  <li>Participated in <b>“All India Inter University Shooting Championship 2019”</b> held at Dr. Karni Singh Shooting Range, New Delhi <a href="https://drive.google.com/file/d/1jbaXo_uojziM7ACWUuZ0fWg66KmXgF9F/view?usp=sharing">(Certificate)</a>.
+  <li>Qualified for <b>“8th West Zone Shooting Championship Pistol, 2021”</b> and qualified for <b>64th National Shooting Championship</b> <a href="https://drive.google.com/file/d/1ykSL9yZ0glYWRnFZ6XQLQTDpsI9XSyPQ/view?usp=sharing">(Certificate)</a>.
   <li>Participated and qualified in <b>“64th National Shooting Championship Competitions (NSCC) Pistol, 2021”</b> held at Dr. Karni Singh Shooting Range, New Delhi <a href="https://drive.google.com/file/d/1bRRoCWO9txPeD4RyK1baUHmU2z4-HLjK/view?usp=sharing">(Certificate)</a>.
   </ul>
  
