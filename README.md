@@ -11,7 +11,7 @@
 # :woman_student: Education
 <p><img src="https://user-images.githubusercontent.com/65387125/173591997-8b1ea5c6-18fc-4077-9c7a-9c992ec13653.jpg" width="169px" height="169px"></p>
 <h3>NMIMS University</h3>
-<p> <b>B.Tech Computer Engineering</b> (July' 2019 - July' 2023) <br/>
+<p> <b>B.Tech Computer Engineering</b> <i>(July' 2019 - July' 2023)</i> <br/>
   <b>CGPA</b>: 3.71/4
 </p>
 
@@ -32,6 +32,18 @@
    <li><b><a href="https://drive.google.com/file/d/1heKuX_up5waZT0Uk-4Tc73nwZd5P1YvE/view?usp=sharing">Python Core</a></b>
    <li><b><a href="https://drive.google.com/file/d/1O5A-ntj54LI4g7r5VmC8SK488Y7IqCra/view?usp=sharing">Data Science</a></b>
  </ul>
+  
+ # :woman_technologist: Experience
+  <ul>
+    <li><u><b>Solid State Physics Laboratory, DRDO | Internship</b> <i>(May' 2022 - Present)</i>
+    <li><u><b>Orpis Technology Ltd. | Freelancing </b><i>(September' 2021 - October' 2021)</i> <a href="https://github.com/vaishnavi2810-code/Bspoints">Source Code</a><br/> 
+      <b>Technologies used:</b> <ins>Java (Swing), NetBeans, JDBC, PhpMyAdmin</ins> <br/>
+    Developed an end-to-end database focused portal which stores the customer’s details, transaction details and, works on role-based access management.
+      <li><b>Jariwala Trading Co. | Freelancing </b><i>(March' 2021 - June' 2021)</i> <a href="https://github.com/Team-Cadmus/Astron">Source Code</a><br/>
+        <b>Technologies used:</b> <ins>Java (Swing), NetBeans, JDBC, Jasper Reports, PhpMyAdmin</ins> <br/>
+    Developed a software which stores the data of the company’s dealers and stock, generate reports for the company and performs various operations according to the company’s need.
+  </ul> 
+   
  
 
 
