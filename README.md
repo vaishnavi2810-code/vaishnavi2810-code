@@ -60,9 +60,17 @@
     <li><b>Cliff 2</b> - Encipher coding challenge organized by <b>Instabase</b></li>
   </ul>
  
+# 🎯 Shooting
+<ul>
+  <li>:2nd_place_medal: 	<b>Secured 2nd Position</b> in <b>“10M Pistol (NR) Championship Junior Women Team of 55th Gujarat State Shooting Championship ,2019”</b> held at Ahmedabad.
+  <li>Participated in <b>“All India Inter University Shooting Championship 2019”</b> held at Dr. Karni Singh Shooting Range, New Delhi.
+  <li>Qualified for <b>“8th West Zone Shooting Championship Pistol, 2021”</b> and qualified for <b>64th National Shooting Championship</b>.
+  <li>Participated and qualified in <b>“64th National Shooting Championship Competitions (NSCC) Pistol, 2021”</b> held at Dr. Karni Singh Shooting Range, New Delhi.
+  </ul>
+ 
 
 
-<h1>🎯Tools and Technologies:</h1>
+<h1>:computer: Tools and Technologies:</h1>
 <p>
 <a href="https://www.java.com/en/" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/></a>
  <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
