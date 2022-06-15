@@ -73,7 +73,7 @@
   <li>Participated in <b>“All India Inter University Shooting Championship 2019”</b> held at Dr. Karni Singh Shooting Range, New Delhi <a href="https://drive.google.com/file/d/1jbaXo_uojziM7ACWUuZ0fWg66KmXgF9F/view?usp=sharing">(Certificate)</a>.
   <li>Qualified for <b>“8th West Zone Shooting Championship Pistol, 2021”</b> and qualified for <b>64th National Shooting Championship</b> <a href="https://drive.google.com/file/d/1ykSL9yZ0glYWRnFZ6XQLQTDpsI9XSyPQ/view?usp=sharing">(Certificate)</a>.
   <li>Participated and qualified in <b>“64th National Shooting Championship Competitions (NSCC) Pistol, 2021”</b> held at Dr. Karni Singh Shooting Range, New Delhi <a href="https://drive.google.com/file/d/1bRRoCWO9txPeD4RyK1baUHmU2z4-HLjK/view?usp=sharing">(Certificate)</a>.
-  </ul>
+  </ul>    
  
 
 
