@@ -28,7 +28,9 @@
   
  # :woman_technologist: Experience
   <ul>
-    <li><ins><b>Solid State Physics Laboratory, DRDO | Internship</b></ins> <i>(May' 2022 - Present)</i>
+    <li><ins><b>Solid State Physics Laboratory, DRDO | Internship</b></ins> <i>(May' 2022 - Jun' 2022)</i><br/>
+    <b>Technologies used:</b> ReactJS, NodeJS, MySQL, BootStrap <br/>
+    - Developed a web application, venue booking for meetings held in the organisation. The app works on calendar events like Google Calendar and has an Admin Page displaying details of all meetings.
     <li><ins><b>Orpis Technology Ltd. | Freelancing </b></ins> <i>(September' 2021 - October' 2021)</i> <a href="https://github.com/vaishnavi2810-code/Bspoints">Source Code</a><br/> 
       <b>Technologies used:</b> Java (Swing), NetBeans, JDBC, PhpMyAdmin <br/>
     - Developed an end-to-end database focused portal which stores the customer’s details, transaction details and, works on role-based access management.
@@ -47,6 +49,8 @@
  
 # :page_with_curl: Certificates
  <ul>
+    <li><b><a href="https://github.com/vaishnavi2810-code/vaishnavi2810-code/files/9000050/Drdo.internship.certificate.pdf">Training Certificate - DRDO</a></b>
+
    <li><b><a href="https://drive.google.com/file/d/1vvE7z6-NKeNUqUlfofu7kHpNqMlrYMsL/view?usp=sharing">Become an Agile Project Manager</a></b>
    <li><b><a href="https://www.hackerrank.com/certificates/d24a96392a79">SQL (Intermediate)</a></b>
    <li><b><a href="https://drive.google.com/file/d/1PYT2tzpmknVA3jWGLq_1gay9Nwa3wvOf/view?usp=sharing">AWS Essential training for Developers</a></b>
