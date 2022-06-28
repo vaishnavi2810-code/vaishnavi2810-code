@@ -72,16 +72,16 @@
  
 # 🎯 Shooting
 <ul>
-  <li>:1st_place_medal: <b>Secured 1st Position</b> in <b>“10M Pistol (NR) Championship Junior Women Team of 56th Gujarat State Shooting Championship ,2021”</b> held at Ahmedabad <a href="https://drive.google.com/file/d/10sjk6gU8bWXcsBJ5Qz7hJ0-W5WudJpyb/view?usp=sharing">(Certificate)</a>.
-  <li>:2nd_place_medal: 	<b>Secured 2nd Position</b> in <b>“10M Pistol (NR) Championship Junior Women Team of 55th Gujarat State Shooting Championship ,2019”</b> held at Ahmedabad <a href="https://drive.google.com/file/d/1q2EeTq1541G0F1chci22Vyq2dj7CtxMW/view?usp=sharing">(Certificate)</a>.
-  <li>:2nd_place_medal: 	<b>Secured 2nd Position</b> in <b>“10M Pistol (NR) Championship Junior Women Individual in 1st Open Saurashtra Shooting Championship, 2021”</b> held at Rajkot <a href="https://drive.google.com/file/d/1wbsrFmAUhW9e5ZGRFcryXTBRXGegPfw6/view?usp=sharing">(Certificate)</a>.
-    <li>:3rd_place_medal: 	<b>Secured 3rd Position</b> in <b>“10M Pistol (NR) Championship Women Team of 55th Gujarat State Shooting Championship ,2019”</b> held at Ahmedabad <a href="https://drive.google.com/file/d/1Ozj5EyH8QudFIbr8zXitCD2SXajClrAF/view?usp=sharing">(Certificate)</a>.
-       <li>:3rd_place_medal: 	<b>Secured 3rd Position</b> in <b>“10M Pistol (NR) Championship Junior Women Individual in 14th RM Halwai Memorial District Shooting Competition, 2020”</b> held at Sports Complex Manjalpur, Vadodara. <a href="https://drive.google.com/file/d/1o-cAmnomsLPxGhPuXne6OjZMh5WdcW76/view?usp=sharing">(Certificate)</a>.
-  <li>Participated in <b>“All India Inter University Shooting Championship 2019”</b> held at Dr. Karni Singh Shooting Range, New Delhi <a href="https://drive.google.com/file/d/1jbaXo_uojziM7ACWUuZ0fWg66KmXgF9F/view?usp=sharing">(Certificate)</a>.
-  <li>Qualified for <b>“8th West Zone Shooting Championship Pistol, 2021”</b> and qualified for <b>64th National Shooting Championship</b> <a href="https://drive.google.com/file/d/1ykSL9yZ0glYWRnFZ6XQLQTDpsI9XSyPQ/view?usp=sharing">(Certificate)</a>.
-  <li>Participated and qualified in <b>“64th National Shooting Championship Competitions (NSCC) Pistol, 2021”</b> held at Dr. Karni Singh Shooting Range, New Delhi <a href="https://drive.google.com/file/d/1bRRoCWO9txPeD4RyK1baUHmU2z4-HLjK/view?usp=sharing">(Certificate)</a>.
+  <li>:1st_place_medal: <b>Secured 1st Position</b> in <b>“10M Pistol (NR) Championship Junior Women Team of 56th Gujarat State Shooting Championship ,2021”</b> held at Ahmedabad <a href="https://github.com/vaishnavi2810-code/vaishnavi2810-code/files/9000167/56thGujState.pdf">(Certificate)</a>.
+  <li>:2nd_place_medal: 	<b>Secured 2nd Position</b> in <b>“10M Pistol (NR) Championship Junior Women Team of 55th Gujarat State Shooting Championship ,2019”</b> held at Ahmedabad <a href="https://github.com/vaishnavi2810-code/vaishnavi2810-code/files/9000165/55thGujState2.pdf">(Certificate)</a>.
+  <li>:2nd_place_medal: 	<b>Secured 2nd Position</b> in <b>“10M Pistol (NR) Championship Junior Women Individual in 1st Open Saurashtra Shooting Championship, 2021”</b> held at Rajkot <a href="https://github.com/vaishnavi2810-code/vaishnavi2810-code/files/9000172/Rajkot.championship.pdf">(Certificate)</a>.
+    <li>:3rd_place_medal: 	<b>Secured 3rd Position</b> in <b>“10M Pistol (NR) Championship Women Team of 55th Gujarat State Shooting Championship ,2019”</b> held at Ahmedabad <a href="https://github.com/vaishnavi2810-code/vaishnavi2810-code/files/9000166/55thGujState3.pdf">(Certificate)</a>.
+       <li>:3rd_place_medal: 	<b>Secured 3rd Position</b> in <b>“10M Pistol (NR) Championship Junior Women Individual in 14th RM Halwai Memorial District Shooting Competition, 2020”</b> held at Sports Complex Manjalpur, Vadodara. <a href="https://github.com/vaishnavi2810-code/vaishnavi2810-code/files/9000170/Baroda.Championship.pdf">(Certificate)</a>.
+  <li>Participated in <b>“All India Inter University Shooting Championship 2019”</b> held at Dr. Karni Singh Shooting Range, New Delhi <a href="https://github.com/vaishnavi2810-code/vaishnavi2810-code/files/9000169/AIIU2019.pdf">(Certificate)</a>.
+  <li>Qualified for <b>“8th West Zone Shooting Championship Pistol, 2021”</b> and qualified for <b>64th National Shooting Championship</b> <a href="https://github.com/vaishnavi2810-code/vaishnavi2810-code/files/9000163/8thWestZone.pdf">(Certificate)</a>.
+  <li>Participated and qualified in <b>“64th National Shooting Championship Competitions (NSCC) Pistol, 2021”</b> held at Dr. Karni Singh Shooting Range, New Delhi <a href="https://github.com/vaishnavi2810-code/vaishnavi2810-code/files/9000168/64thNSCC.pdf">(Certificate)</a>.
   </ul>    
- 
+  
 
 
 <h1>:computer: Tools and Technologies:</h1>
