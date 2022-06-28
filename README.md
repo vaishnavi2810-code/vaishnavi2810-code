@@ -52,12 +52,14 @@
     <li><b><a href="https://github.com/vaishnavi2810-code/vaishnavi2810-code/files/9000050/Drdo.internship.certificate.pdf">Training Certificate - DRDO</a></b>
 
    <li><b><a href="https://drive.google.com/file/d/1vvE7z6-NKeNUqUlfofu7kHpNqMlrYMsL/view?usp=sharing">Become an Agile Project Manager</a></b>
-   <li><b><a href="https://www.hackerrank.com/certificates/d24a96392a79">SQL (Intermediate)</a></b>
+   <li><b><a href="https://user-images.githubusercontent.com/65387125/176156545-e45de0f6-86ba-49e1-ac61-6f0010cd3940.png">SQL (Intermediate)</a></b>
    <li><b><a href="https://drive.google.com/file/d/1PYT2tzpmknVA3jWGLq_1gay9Nwa3wvOf/view?usp=sharing">AWS Essential training for Developers</a></b>
    <li><b><a href="https://drive.google.com/file/d/15EDAXPUMG6mvb-EEpiAP7fsjkr2HYbXr/view?usp=sharing">Python for Data Science</a></b>
    <li><b><a href="https://drive.google.com/file/d/1fh2QuuadjIqJtQ23-6hjcL4-Z-5KGiAs/view?usp=sharing">Python Intermediate</a></b>
    <li><b><a href="https://drive.google.com/file/d/1heKuX_up5waZT0Uk-4Tc73nwZd5P1YvE/view?usp=sharing">Python Core</a></b>
    <li><b><a href="https://drive.google.com/file/d/1O5A-ntj54LI4g7r5VmC8SK488Y7IqCra/view?usp=sharing">Data Science</a></b>
+   <li><b><a href="https://github.com/vaishnavi2810-code/vaishnavi2810-code/files/9000101/AppreciationLetter.pdf">Certificate of Appreciation</a></b>
+
  </ul>
   
  # :trophy: Achievements
