@@ -59,8 +59,19 @@
      <li><b><ins>Titanic Survival Prediction</ins></b> <a href="https://github.com/vaishnavi2810-code/Titanic_survival_prediction">Code</a><br/>
        A Machine Learning model for predicting the survival of passengers aboard RMS Titanic, a British passenger liner that sank in the North Atlantic Ocean.
  </ul>
+
+
+# :page_with_curl: Publications
+<ul>
+  <li> Prediction of COVID-19 using Deep Learning: A comparative Study <a href="https://www.publications.scrs.in/chapter/978-81-955020-2-8/18">Publication link</a></li>
+  - An extensive review of 60 research papers on various machine learning models and algorithms used for the detection of COVID-19 via CT and CXR images.
+</ul>
+<ul>
+  <li> Potato Plant Leaf Disease Classification using Deep CNN <a href="https://link.springer.com/chapter/10.1007/978-981-97-0154-4_29">Publication link</a></li>
+  - A research paper that illustrates the architecture of a proposed Deep CNN model for classifying Potato Plant Leaf diseases into 3 classes: Early Blight affected, Late Blight affected and healthy plant. The proposed CNN gave better performance when compared to three pre-trained models: VGG19, ResNet50 and DenseNet121.
+</ul>
  
-# :page_with_curl: Certificates
+# :newspaper_roll: Certificates
  <ul>
     <li><b><a href="https://github.com/vaishnavi2810-code/vaishnavi2810-code/files/9000050/Drdo.internship.certificate.pdf">Training Certificate - DRDO</a></b>
 
