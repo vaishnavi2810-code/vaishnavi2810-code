@@ -3,8 +3,8 @@
   
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" height="35px">, I am Vaishnavi Jariwala</h1>
-- 👨‍💻 I'm currently working on : MERN development<br>
-- 👀 I’m looking to colaborate on projects based on Web development or Machine Learning using Python <br>
+- 👨‍💻 I'm currently working at : ZS Associates<br>
+- 👀 I’m looking to enhance and uplift my knowledge in the field of Computer Science <br>
 - 🌱 I’m currently learning : Machine Learning<br>
 - 📫 How to reach me : <a href="mailto:jariwalavaishnavi52@gmail.com">jariwalavaishnavi52@gmail.com</a><br>
 - ⚡ Fun fact : I'm a National Level Pistol shooter
@@ -13,7 +13,7 @@
 <p><img src="https://user-images.githubusercontent.com/65387125/173591997-8b1ea5c6-18fc-4077-9c7a-9c992ec13653.jpg" width="169px" height="169px"></p>
 <h3>NMIMS University</h3>
 <p> <b>B.Tech Computer Engineering</b> <i>(July' 2019 - July' 2023)</i> <br/>
-  <b>CGPA</b>: 3.71/4
+  <b>CGPA</b>: 3.75/4
 </p>
 
 # :link: Profile Links
