@@ -27,6 +27,19 @@
  
   
  # :woman_technologist: Experience
+   <ul>
+    <li><ins><b>ZS Associates | Business Technology Solutions Associate</b></ins> <i>(Aug' 2023 - Present)</i> <br/>
+    <b>Technologies used:</b> PostgreSQL, Python, Bitbucket, Apache Airflow <br/>
+    - Monitoring the daily automated processes setup on Apache Airflow <br/>
+    - Communicating with clients regarding the queries and enhancements required on a customized software known as Javelin, which is used by them daily <br/>
+    - Working on code level ehancements pertaining to the customized software and the daily automated processes. <br/>
+    <li><ins><b>Orpis Technology Ltd. | Freelancing </b></ins> <i>(September' 2021 - October' 2021)</i> <a href="https://github.com/vaishnavi2810-code/Bspoints">Source Code</a><br/> 
+      <b>Technologies used:</b> Java (Swing), NetBeans, JDBC, PhpMyAdmin <br/>
+    - Developed an end-to-end database focused portal which stores the customer’s details, transaction details and, works on role-based access management.
+    <li><ins><b>Jariwala Trading Co. | Freelancing </b></ins><i>(March' 2021 - June' 2021)</i> <a href="https://github.com/Team-Cadmus/Astron">Source Code</a><br/>
+        <b>Technologies used:</b> Java (Swing), NetBeans, JDBC, Jasper Reports, PhpMyAdmin <br/>
+    - Developed a software which stores the data of the company’s dealers and stock, generate reports for the company and performs various operations according to the company’s need.
+  </ul> 
   <ul>
     <li><ins><b>Solid State Physics Laboratory, DRDO | Internship</b></ins> <i>(May' 2022 - Jun' 2022)</i> <a href="https://github.com/vaishnavi2810-code/VCBooking">Source Code</a> <br/>
     <b>Technologies used:</b> ReactJS, NodeJS, MySQL, BootStrap <br/>
