@@ -10,9 +10,9 @@
 - ⚡ Fun fact : I'm a National Level Pistol shooter
 
 # :woman_student: Education
-<p><img src="https://user-images.githubusercontent.com/65387125/173591997-8b1ea5c6-18fc-4077-9c7a-9c992ec13653.jpg" width="169px" height="169px"></p>
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/NU_RGB_seal_R.png" width="169px" height="169px"></p>
 <h3>Northeastern University</h3>
-<p> <b>Master of Science in Computer Science</b> <i>(Sep'2025 - Present)</i> <br/>
+<p> <b>Master of Science in Computer Science</b> <i>(Sep'2025 - Present)</i> <br/> <br/>
 <p><img src="https://user-images.githubusercontent.com/65387125/173591997-8b1ea5c6-18fc-4077-9c7a-9c992ec13653.jpg" width="169px" height="169px"></p>
 <h3>NMIMS University</h3>
 <p> <b>B.Tech Computer Engineering</b> <i>(July' 2019 - July' 2023)</i> <br/>
