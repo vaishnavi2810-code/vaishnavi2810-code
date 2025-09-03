@@ -3,13 +3,16 @@
   
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" height="35px">, I am Vaishnavi Jariwala</h1>
-- 👨‍💻 I'm currently working at : ZS Associates<br>
+- 👨‍💻 I'm currently pursuing my Masters degree from : Northeastern University<br>
 - 👀 I’m looking to enhance and uplift my knowledge in the field of Computer Science <br>
-- 🌱 I’m currently learning : Machine Learning<br>
+- 🌱 I’m currently learning : Artificial Intelligence <br>
 - 📫 How to reach me : <a href="mailto:jariwalavaishnavi52@gmail.com">jariwalavaishnavi52@gmail.com</a><br>
 - ⚡ Fun fact : I'm a National Level Pistol shooter
 
 # :woman_student: Education
+<p><img src="https://user-images.githubusercontent.com/65387125/173591997-8b1ea5c6-18fc-4077-9c7a-9c992ec13653.jpg" width="169px" height="169px"></p>
+<h3>Northeastern University</h3>
+<p> <b>Master of Science in Computer Science</b> <i>(Sep'2025 - Present)</i> <br/>
 <p><img src="https://user-images.githubusercontent.com/65387125/173591997-8b1ea5c6-18fc-4077-9c7a-9c992ec13653.jpg" width="169px" height="169px"></p>
 <h3>NMIMS University</h3>
 <p> <b>B.Tech Computer Engineering</b> <i>(July' 2019 - July' 2023)</i> <br/>
@@ -28,11 +31,18 @@
   
  # :woman_technologist: Experience
    <ul>
-    <li><ins><b>ZS Associates | Business Technology Solutions Associate</b></ins> <i>(Aug' 2023 - Present)</i> <br/>
+     <li><ins><b>ZS Associates | Business Technology Solutions Associate Consultant</b></ins> <i>(Jul'2025)</i> <br/>
     <b>Technologies used:</b> PostgreSQL, Python, Bitbucket, Apache Airflow <br/>
-    - Monitoring the daily automated processes setup on Apache Airflow <br/>
-    - Communicating with clients regarding the queries and enhancements required on a customized software known as Javelin, which is used by them daily <br/>
-    - Working on code level ehancements pertaining to the customized software and the daily automated processes. <br/>
+    - Led two modules consisting a team of 3 associates focused on optimizing input/output data pipelines for enhanced system performance and reliability. <br/>
+    - Improved team efficiency by refining task tracking and delivery processes using agile methodologies. <br/>
+    - Played a central role in transitioning operations from a legacy product to a new platform, providing technical and strategic guidance throughout to the clients and internal team members. <br/>
+
+ <br/>
+    <li><ins><b>ZS Associates | Business Technology Solutions Associate</b></ins> <i>(Aug' 2023 - Jun'2025)</i> <br/>
+    <b>Technologies used:</b> PostgreSQL, Python, Bitbucket, Apache Airflow <br/>
+    - Diagnosed and resolved code-level issues in data processing workflows, ensuring accuracy of critical outputs for downstream client systems. <br/>
+    - Interfaced directly with clients to address technical queries and implement feature enhancements in a customized enterprise tool (Javelin), used in daily business operations.
+ <br/>
     <li><ins><b>Orpis Technology Ltd. | Freelancing </b></ins> <i>(September' 2021 - October' 2021)</i> <a href="https://github.com/vaishnavi2810-code/Bspoints">Source Code</a><br/> 
       <b>Technologies used:</b> Java (Swing), NetBeans, JDBC, PhpMyAdmin <br/>
     - Developed an end-to-end database focused portal which stores the customer’s details, transaction details and, works on role-based access management.
@@ -89,6 +99,7 @@
   
  # :trophy: Achievements
   <ul>
+    <li>Recognized with the <b>“Deep Diver” award at ZS Associates’ 2025 Rewards & Recognition ceremony</b> for demonstrating end-to-end technical expertise across tools, pipelines, and business-critical processes.</li>
     <li><b>Selected</b> as a <b>contributor</b> in <b>GirlScript Summer of Code 2022</b></li>
     <li><b>Global Rank 402</b> - CodeChef's January Long Challenge, <b>Rating 1661 ( 3 :star:)</b></li>
     <li><b>Cliff 2</b> - Encipher coding challenge organized by <b>Instabase</b></li>
