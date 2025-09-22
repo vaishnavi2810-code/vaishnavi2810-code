@@ -3,11 +3,15 @@
   
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" height="35px">, I am Vaishnavi Jariwala</h1>
-- 👨‍💻 I'm currently pursuing my Masters degree from : Northeastern University<br>
+I’m a <b>Software Engineer</b> on a journey from <b>ZS Associates</b> to pursuing an <b>MS in Computer Science at Northeastern University</b>. <br>
+
+<h3>What drives me? 💡 </h3>
+The intersection of <b>problem-solving, scalability, and innovation</b>. Whether it’s debugging mission-critical pipelines, digitizing operations for industries, or applying deep learning to healthcare challenges—I love transforming ideas into impact.  <br>
+<!-- - 👨‍💻 I'm currently pursuing my Masters degree from : Northeastern University<br>
 - 👀 I’m looking to enhance and uplift my knowledge in the field of Computer Science <br>
 - 🌱 I’m currently learning : Artificial Intelligence <br>
 - 📫 How to reach me : <a href="mailto:jariwalavaishnavi52@gmail.com">jariwalavaishnavi52@gmail.com</a><br>
-- ⚡ Fun fact : I'm a National Level Pistol shooter
+- ⚡ Fun fact : I'm a National Level Pistol shooter -->
 
 # :woman_student: Education
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/NU_RGB_seal_R.png" width="169px" height="169px"></p>
