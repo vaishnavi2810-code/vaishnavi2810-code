@@ -86,7 +86,7 @@ The intersection of <b>problem-solving, scalability, and innovation</b>. Whether
   <li><b><a href="https://auth.geeksforgeeks.org/user/jariwalavaishnavi52/practice/">GeeksforGeeks</a></b>
 </ul>-->
 # 📬 Let’s Connect!  
-<a href="https://www.linkedin.com/in/vaishnavi-jariwala-0883b51a3/">LinkedIn</a> | <a href="https://github.com/vaishnavi2810-code">GitHub</a> | <a href="mailto:jariwala.vai@northeastern.edu">Email</a>
+<a href="https://www.linkedin.com/in/vaishnavijariwala/">LinkedIn</a> | <a href="https://github.com/vaishnavi2810-code">GitHub</a> | <a href="mailto:jariwala.vai@northeastern.edu">Email</a>
   
  
   
