@@ -16,14 +16,13 @@ markdown<h1 align="center">Hi 👋, I'm Vaishnavi Jariwala</h1>
 
 I'm a graduate student at **Northeastern University** pursuing my **MS in Computer Science** (4.0 GPA), with 2 years of production experience building **data pipelines, backend systems, and ML applications**.
 
-Previously at **ZS Associates**, I engineered ETL workflows processing **300+ GB daily data** using Apache Airflow, Python, and AWS. I'm passionate about the intersection of **software engineering and machine learning** – creating systems that not only work but scale.
+Previously at **ZS Associates**, I engineered ETL workflows processing **300+ GB of data daily** using Apache Airflow, Python, and AWS. I'm passionate about the intersection of **software engineering and machine learning** – creating systems that not only work but scale.
 
-**Currently seeking Software Engineering internships for Summer 2026** in backend development, data engineering, or ML engineering roles.
-
+**Actively seeking Software Engineering internships for Summer 2026** in backend development, data engineering, or ML engineering roles.
 ## 💼 Experience
 
 <details>
-<summary><b>💻 Software Engineer @ ZS Associates</b> | Aug 2023 - Jul 2025</summary>
+<summary><b>💻 Software Engineer @ ZS Associates</b> | Aug 2023 - Jul 2025 (2 years)</summary>
 
 <br>
 
@@ -37,7 +36,7 @@ Previously at **ZS Associates**, I engineered ETL workflows processing **300+ GB
 </details>
 
 <details>
-<summary><b>🛡️ Software Engineer Intern @ DRDO</b> | May 2022 - Jul 2022</summary>
+<summary><b>🛡️ Software Engineer Intern @ DRDO</b> | May 2022 - Jul 2022 (3 months)</summary>
 
 <br>
 
@@ -58,7 +57,7 @@ End-to-end NLP pipeline for automated meeting summarization
 - **Tech:** PyTorch, HuggingFace Transformers, spaCy, NLTK
 
 ### [Potato Plant Disease Classification](https://github.com/vaishnavi2810-code/potato-disease-classification)
-Deep learning for agricultural disease detection | **Published in Springer**
+Deep learning for agricultural disease detection | **Peer-reviewed publication in Springer**
 - Custom CNN: **94% accuracy**, outperforming VGG19, ResNet50, DenseNet121
 - Trained on 2,152 images across 3 disease categories
 - **Tech:** TensorFlow, Keras, Python, CNN
@@ -95,11 +94,11 @@ Production desktop application | **4+ years in production use**
 ## 📄 Publications
 
 **[Potato Plant Leaf Disease Classification using Deep CNN](https://link.springer.com/chapter/10.1007/978-981-97-0154-4_29)**  
-*Springer Conference Proceedings, 2023*  
+*V. Jariwala et al. | Springer Conference Proceedings, 2023*  
 🏆 Achieved 94% accuracy for agricultural disease detection
 
 **[Prediction of COVID-19 using Deep Learning: A Comparative Study](https://www.publications.scrs.in/chapter/978-81-955020-2-8/18)**  
-*SCRS Publications, 2022*  
+*V. Jariwala et al. | SCRS Publications, 2022*  
 📊 Analyzed 60+ research studies on AI-based medical imaging
 
 ## 🎓 Education
