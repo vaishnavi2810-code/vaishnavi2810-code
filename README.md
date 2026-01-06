@@ -28,5 +28,8 @@ I enjoy building systems that are **scalable, observable, and production-ready**
 - **[Meeting Analytics System](https://github.com/vaishnavi2810-code/Workplace-Jarvis-Meeting-Task-Assistant)**  
   End-to-end NLP pipeline for automated meeting analysis with evaluation-driven design
 
+- **[Calendar Application](https://github.com/vaishnavi2810-code/calendar-application)**  
+  Java Swing calendar with MVC architecture, SOLID principles, and comprehensive design pattern implementation
+  
 - **ETL Pipelines @ ZS Associates**  
   High-volume Airflow pipelines with monitoring, validation, and reliability guarantees
