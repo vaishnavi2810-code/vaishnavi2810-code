@@ -22,10 +22,10 @@ I enjoy building systems that are **scalable, observable, and production-ready**
 
 ## ⭐ Selected Engineering Work
 
-- **[Astron: Business Management System](https://github.com/Team-Cadmus/Astron)**  
+- **[Astron: Business Management System](https://github.com/vaishnavi2810-code/Astron_BusinessManagementSystem)**  
   Production Java application managing **25,000+ business records**, in active use for 4+ years
 
-- **[Meeting Analytics System](https://github.com/vaishnavi2810-code/meeting-analytics)**  
+- **[Meeting Analytics System](https://github.com/vaishnavi2810-code/Workplace-Jarvis-Meeting-Task-Assistant)**  
   End-to-end NLP pipeline for automated meeting analysis with evaluation-driven design
 
 - **ETL Pipelines @ ZS Associates**  
