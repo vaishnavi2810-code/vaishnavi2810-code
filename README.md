@@ -22,6 +22,12 @@ I enjoy building systems that are **scalable, observable, and production-ready**
 
 ## ⭐ Selected Engineering Work
 
+- **[Polyglot Mirror](https://github.com/vaishnavi2810-code/polyglot-mirror)** | [Live app](https://polyglot-mirror.vercel.app/)  
+  Real-time multilingual video translation with face-tracking speech bubbles using Next.js, Three.js, MediaPipe Vision, and Google Cloud Translation API
+
+- **[WhatsApp Intelligence Hub](https://github.com/vaishnavi2810-code/whatsapp-mcp)** | [Prototype](https://daily-digest-105.lovable.app/login)  
+  Local-first AI chat summarization tool using MCP server, LLM APIs, and SQLite3 with React-based sentiment visualization
+
 - **[Astron: Business Management System](https://github.com/vaishnavi2810-code/Astron_BusinessManagementSystem)**  
   Production Java application managing **25,000+ business records**, in active use for 4+ years
 
