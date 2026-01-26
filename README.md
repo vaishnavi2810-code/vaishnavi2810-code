@@ -22,6 +22,9 @@ I enjoy building systems that are **scalable, observable, and production-ready**
 
 ## ⭐ Selected Engineering Work
 
+- <b> Secured & Governed MCP | 🏆 Hackathon Winner - Open Accelerator (Red Hat x IBM)</b> <br>
+  Defined a policy-driven access control layer for AI agents interacting with enterprise MCP servers, preventing unsafe or unauthorized interactions
+
 - **[Polyglot Mirror](https://github.com/vaishnavi2810-code/polyglot-mirror)** | [Live app](https://polyglot-mirror.vercel.app/)  
   Real-time multilingual video translation with face-tracking speech bubbles using Next.js, Three.js, MediaPipe Vision, and Google Cloud Translation API
 
